@@ -1,0 +1,9 @@
+[submodule "visualising_sorting"]
+	path = visualising_sorting
+	url = https://github.com/ultralegendary/visualising_sorting.git
+[submodule "happy-2021"]
+	path = happy-2021
+	url = https://github.com/ultralegendary/happy-2021.git
+[submodule "blobby_circle"]
+	path = blobby_circle
+	url = https://github.com/ultralegendary/blobby_circle.git

@@ -1,0 +1,2 @@
+E:\c++\sfml\sfml projects\perlin_noise\Debug\perlin_noise.exe
+E:\c++\sfml\sfml projects\perlin_noise\Debug\perlin_noise.pdb

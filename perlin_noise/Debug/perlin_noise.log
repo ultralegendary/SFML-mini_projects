@@ -1,0 +1,20 @@
+﻿  main.cpp
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(8,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(30,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(31,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(31,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(100,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(101,98): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(101,72): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(54,12): warning C4101: 'm': unreferenced local variable
+E:\c++\sfml\sfml projects\perlin_noise\main.cpp(54,35): warning C4101: 'm1': unreferenced local variable
+  perlin_noise.vcxproj -> E:\c++\sfml\sfml projects\perlin_noise\Debug\perlin_noise.exe

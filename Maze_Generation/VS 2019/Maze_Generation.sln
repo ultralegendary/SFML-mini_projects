@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maze_Generation", "Maze_Generation.vcxproj", "{F5011E18-9200-48F5-A804-CBF393F3111C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5011E18-9200-48F5-A804-CBF393F3111C}.Debug|x64.ActiveCfg = Debug|x64
+		{F5011E18-9200-48F5-A804-CBF393F3111C}.Debug|x64.Build.0 = Debug|x64
+		{F5011E18-9200-48F5-A804-CBF393F3111C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5011E18-9200-48F5-A804-CBF393F3111C}.Debug|x86.Build.0 = Debug|Win32
+		{F5011E18-9200-48F5-A804-CBF393F3111C}.Release|x64.ActiveCfg = Release|x64
+		{F5011E18-9200-48F5-A804-CBF393F3111C}.Release|x64.Build.0 = Release|x64
+		{F5011E18-9200-48F5-A804-CBF393F3111C}.Release|x86.ActiveCfg = Release|Win32
+		{F5011E18-9200-48F5-A804-CBF393F3111C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD17550F-0C35-4576-A1E7-7203F5E7C133}
+	EndGlobalSection
+EndGlobal

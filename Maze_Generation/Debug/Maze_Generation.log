@@ -1,0 +1,5 @@
+﻿  boxes.cpp
+  Main.cpp
+G:\Git\SFML-mini_projects\Maze_Generation\Main.cpp(10,22): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  Maze_Generation.vcxproj -> G:\Git\SFML-mini_projects\Maze_Generation\Debug\Maze_Generation.exe

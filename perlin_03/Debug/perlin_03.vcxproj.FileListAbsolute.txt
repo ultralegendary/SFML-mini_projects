@@ -1,0 +1,2 @@
+E:\c++\sfml\sfml projects\perlin_03\x64\Debug\perlin_03.exe
+E:\c++\sfml\sfml projects\perlin_03\x64\Debug\perlin_03.pdb
